@@ -1,0 +1,11 @@
+./node_modules
+./ffmpeg
+./ffmpeg.exe
+./ffplay.exe
+./ffprobe.exe
+./yarn.lock
+./package-lock.json
+./__settings.js
+./settings.js
+./src/commands/Administrator/createChart.js
+./src/commands/Administrator/playChart.js

@@ -1,0 +1,30 @@
+{
+  "name": "musicbot-with_bugs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "audio-buffer": "^4.0.4",
+    "audio-context": "^1.0.3",
+    "cheerio": "^1.0.0-rc.5",
+    "child_process": "^1.0.2",
+    "dayjs": "^1.10.4",
+    "discord.js": "^12.5.1",
+    "get-audio-duration": "^2.0.3",
+    "glob": "^7.1.6",
+    "mongoose": "^5.11.8",
+    "node-cron": "^2.0.3",
+    "node-fetch": "^2.6.1",
+    "node-id3": "^0.2.2",
+    "node-uuid": "^1.4.8",
+    "winston": "^3.3.3",
+    "youtube-sr": "^3.0.4",
+    "ytdl-core": "^4.7.0"
+  }
+}
